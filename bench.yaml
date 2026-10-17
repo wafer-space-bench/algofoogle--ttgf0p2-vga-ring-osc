@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/algofoogle/ttgf0p2-vga-ring-osc
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p2
+  slot: tt_um_algofoogle_vgaringosc
+  project: Ring osc on VGA
+  size: 1x1
+  kind: digital (Verilog)
+  commit: cdefb8e78972dd90efb2eb9991ffb5f23d531a1a
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p2/tt_um_algofoogle_vgaringosc
+  branch: tapeout/tinytapeout/ttgf0p2/tt_um_algofoogle_vgaringosc
+  page: https://app.tinytapeout.com/shuttles/ttgf0p2
+generated: '2026-10-17T23:05:06Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p2/tt_um_algofoogle_vgaringosc
+- upstream/main
